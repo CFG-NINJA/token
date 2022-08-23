@@ -19,4 +19,4 @@ BSC, ETH,Polygon, Dogechain and Phoenix. Contract: 0x5CA60c5e0Df639FA827CE9834e0
 Cronos Contract: 0x624980C139974c68CFF016B2C416d3C5eaF5F651 - contract is live on Cronaswap. 
 https://app.cronaswap.org/swap?outputCurrency=0x624980C139974c68CFF016B2C416d3C5eaF5F651 
 
-### BSC, ETH, Polygon Token Launch Scheduled for 4/20/2022
+
